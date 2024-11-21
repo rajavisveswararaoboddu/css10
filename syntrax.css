@@ -1,0 +1,30 @@
+.nav{
+    border: 3px solid black;
+    height: 125px;
+    width: 1500px;
+    background-color: aqua;
+}
+ .rr h1{
+    border: 2px solid black;
+    width: 550px;
+    display: inline;
+    padding: 0px;
+    background-color:red;
+    margin-right: 80px;
+}
+.rv{
+    border: 2px solid black;
+    width: 1500px;
+    height:600px ;
+    display: inline-block;
+}
+:target{
+    background-color:blue ;
+    position: absolute;
+    top: 200px;
+}
+.rv {
+    background-image: url(../ASSETS/IMAGES/pk\ pic\ -\ Copy.jpg)
+    height: 1500px;
+    width: 1500px ;
+}
