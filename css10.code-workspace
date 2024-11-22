@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../css9"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css10"
+	}
+}
